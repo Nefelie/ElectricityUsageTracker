@@ -4,8 +4,8 @@ The Electricity Tracker Usage Application is a project I developed for my Intern
 
 ## Features
 
-- Household Electricity Tracking: Keep a close eye on your household's electricity consumption.
-- Clean User Interface: The application boasts an intuitive and aesthetically pleasing UI for user convenience.
-- Java-Based: Built using Java to ensure cross-platform compatibility.
-- SQL Databases: Utilizes SQL databases for efficient data storage and retrieval.
+- **Household Electricity Tracking:** Keep a close eye on your household's electricity consumption.
+- **Clean User Interface:** The application boasts an intuitive and aesthetically pleasing UI for user convenience.
+- **Java-Based:** Built using Java to ensure cross-platform compatibility.
+- **SQL Databases:** Utilizes SQL databases for efficient data storage and retrieval.
 
